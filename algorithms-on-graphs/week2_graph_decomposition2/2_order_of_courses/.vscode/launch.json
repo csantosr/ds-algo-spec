@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "(lldb) Launch",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "/Users/csantosr/Documents/dev/ds-algo-spec/algorithms-on-graphs/week2_graph_decomposition2/2_order_of_courses/a.out",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "lldb"
+    }
+  ],
+  "version": "2.0.0"
+}
